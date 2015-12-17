@@ -10,4 +10,4 @@ Algorithms for the programming exercises include:
  - Week 2 - Linear Regression
  - Week 3 - Logistic Regression
  - Week 4 - Multi-class Classification and Neural Networks
-
+ - Week 5 - Neural Network Learning
