@@ -1,4 +1,4 @@
-> ###**Stanford Machine Learning**
+> ### **Stanford Machine Learning**
 > Nov 2015 - Feb 2016     
 > [course webpage](https://www.coursera.org/learn/machine-learning/)
 
